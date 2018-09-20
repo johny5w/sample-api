@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "name":"Gandalf",
+            "occupation": "Wizard"
+        },
+        {
+            "name":"Bilbo",
+            "occupation": "Burglar"
+        },
+        {
+            "name":"Strider",
+            "occupation": "Ranger"
+        },
+        {
+            "name":"Elrond",
+            "occupation": "Lord of Rivendell"
+        }
+    ],
+    "places": [
+        "Bag End",
+        "Mirkwood",
+        "Bree",
+        "Dale",
+        "Erebor"
+    ],
+    "world": {
+        "name": "Arda",
+        "alias": "Middle Earth"
+    }
+}
